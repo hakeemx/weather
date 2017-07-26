@@ -17,9 +17,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm install react-scripts",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "postinstall": "npm run build"
+    "postinstall": "npm install react-scripts"
   }
 }
