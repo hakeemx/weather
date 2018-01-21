@@ -1,3 +1,3 @@
 # weather
 
-This is a weather app I made using React
+This is a Weather app I made using React and Google Maps API. 
